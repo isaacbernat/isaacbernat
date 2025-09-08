@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**isaacbernat/isaacbernat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.isaacbernat.com" title="Visit my portfolio at isaacbernat.com">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/isaacbernat/isaacbernat/main/contributions-dark.png">
+    <img
+      src="https://raw.githubusercontent.com/isaacbernat/isaacbernat/main/contributions-light.png"
+      alt="A stylized image of my GitHub contribution graph.">
+  </picture>
+</a>
